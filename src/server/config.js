@@ -87,7 +87,7 @@ config.discord.scope = "connections identify"; // Space separated
 config.discord.useOAuth2State = false; // More secure, but not implemented yet...
 
 // Server variables
-config.discord.inviteLink = "https://discord.gg/1234567";
+config.discord.inviteLink = "https://discord.gg/Ye4WB6mU";
 config.discord.gameplayChannelId = "<USE CONFIG.USER.JS OVERRIDE>";
 config.discord.ignoreChannelIds = []; // Array of channel IDs that should be ignored. Should only be necessary during development.
 
